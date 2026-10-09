@@ -1,0 +1,6 @@
+{
+  "name": "RogueByte WhatsApp Forensics Ultimate",
+  "description": "Professional, evidence-driven WhatsApp digital forensic analysis workstation by RogueByteOfficial with WAL-aware SQLite inspection, timeline reconstruction, deleted artifact analysis, integrity verification, and reproducible benchmarking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
