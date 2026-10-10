@@ -10,6 +10,11 @@
 > **Forensic Standards:** NIST SP 800-86 | ISO/IEC 27037 Digital Evidence Integrity
 
 ---
+## Screenshot
+
+![RogueByte Police Digital Forensics Suite screenshot](screenshoot.png)
+
+---
 
 ## 📑 الفهرس / Table of Contents
 1. [نظرة عامة على النظام / Overview](#نظرة-عامة-على-النظام--overview)
