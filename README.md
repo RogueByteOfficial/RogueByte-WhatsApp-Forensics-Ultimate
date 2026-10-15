@@ -1,12 +1,13 @@
 # 🔬 RogueByte WhatsApp Forensics Ultimate v2.0
 > **Beyond the Surface. Down to the Root.**  
-> **Author & Lead Researcher:** Sido Dev | RogueByte 🔬  
+> **Author & Lead Researcher:** Sido fares sidahmed | RogueByte 🔬  
 > **Specialization:** Kernel Research • Binary Analysis • Vulnerability Research • PlayStation Security  
 > **Role:** Reverse Engineer • Ethical Hacker • Cybersecurity Researcher  
 > **الصفة:** باحث أمن سيبراني • خبير هندسة عكسية • هاكر أخلاقي  
 > **Links & Support:**  
 > 🌐 **GitHub:** [https://github.com/RogueByteOfficial](https://github.com/RogueByteOfficial)  
-> ☕ **Ko-fi:** [https://ko-fi.com/roguebyte](https://ko-fi.com/roguebyte)  
+> ☕ **Ko-fi:** [https://ko-fi.com/roguebyte](https://ko-fi.com/roguebyte)
+> 🌐 **website:** .[https://roguebyte.online](https://roguebyte.online/)
 > **Forensic Standards:** NIST SP 800-86 | ISO/IEC 27037 Digital Evidence Integrity
 
 ---
